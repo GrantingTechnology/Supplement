@@ -1,0 +1,55 @@
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.deps.json
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\ref\gt.business.general.supplement.utility.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.pdb
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.AssemblyInfoInputs.cache
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.AssemblyInfo.cs
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.csproj.CoreCompileInputs.cache
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\ref\gt.business.general.supplement.utility.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.pdb
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.deps.json
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\ref\gt.business.general.supplement.utility.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.pdb
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.AssemblyInfoInputs.cache
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.AssemblyInfo.cs
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.csproj.CoreCompileInputs.cache
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\ref\gt.business.general.supplement.utility.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.pdb
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.deps.json
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\ref\gt.business.general.supplement.utility.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.pdb
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.AssemblyInfoInputs.cache
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.AssemblyInfo.cs
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.csproj.CoreCompileInputs.cache
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\ref\gt.business.general.supplement.utility.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.pdb
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.deps.json
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\ref\gt.business.general.supplement.utility.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.pdb
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.AssemblyInfoInputs.cache
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.AssemblyInfo.cs
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.csproj.CoreCompileInputs.cache
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\ref\gt.business.general.supplement.utility.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.pdb
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.deps.json
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\ref\gt.business.general.supplement.utility.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\bin\Debug\net6.0\gt.business.general.supplement.utility.pdb
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.AssemblyInfoInputs.cache
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.AssemblyInfo.cs
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.csproj.CoreCompileInputs.cache
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\ref\gt.business.general.supplement.utility.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\gt.business.general.supplement.utility\obj\Debug\net6.0\gt.business.general.supplement.utility.pdb

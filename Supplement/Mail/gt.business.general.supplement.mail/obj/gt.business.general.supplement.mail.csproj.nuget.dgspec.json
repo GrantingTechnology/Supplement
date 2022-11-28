@@ -1,0 +1,424 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\Supplement\\Mail\\gt.business.general.supplement.mail\\gt.business.general.supplement.mail.csproj": {}
+  },
+  "projects": {
+    "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\gt.business.log\\gt.business.log.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\gt.business.log\\gt.business.log.csproj",
+        "projectName": "gt.business.log",
+        "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\gt.business.log\\gt.business.log.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\gt.business.log\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general.log\\gt.entity.general.log.csproj": {
+                "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general.log\\gt.entity.general.log.csproj"
+              },
+              "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general\\gt.entity.general.csproj": {
+                "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general\\gt.entity.general.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\Supplement\\gt.business.general.supplement.utility\\gt.business.general.supplement.utility.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\Supplement\\gt.business.general.supplement.utility\\gt.business.general.supplement.utility.csproj",
+        "projectName": "gt.business.general.supplement.utility",
+        "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\Supplement\\gt.business.general.supplement.utility\\gt.business.general.supplement.utility.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\Supplement\\gt.business.general.supplement.utility\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\Supplement\\Mail\\gt.business.general.supplement.mail\\gt.business.general.supplement.mail.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\Supplement\\Mail\\gt.business.general.supplement.mail\\gt.business.general.supplement.mail.csproj",
+        "projectName": "gt.business.general.supplement.mail",
+        "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\Supplement\\Mail\\gt.business.general.supplement.mail\\gt.business.general.supplement.mail.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\Supplement\\Mail\\gt.business.general.supplement.mail\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\gt.business.log\\gt.business.log.csproj": {
+                "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\gt.business.log\\gt.business.log.csproj"
+              },
+              "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general\\gt.entity.general.csproj": {
+                "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general\\gt.entity.general.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general.io\\gt.entity.general.io.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general.io\\gt.entity.general.io.csproj",
+        "projectName": "gt.entity.general.io",
+        "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general.io\\gt.entity.general.io.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general.io\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Enumerator\\_General\\gt.enumerator.general\\gt.enumerator.general.csproj": {
+                "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Enumerator\\_General\\gt.enumerator.general\\gt.enumerator.general.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general.log\\gt.entity.general.log.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general.log\\gt.entity.general.log.csproj",
+        "projectName": "gt.entity.general.log",
+        "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general.log\\gt.entity.general.log.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general.log\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general\\gt.entity.general.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general\\gt.entity.general.csproj",
+        "projectName": "gt.entity.general",
+        "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general\\gt.entity.general.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\Supplement\\gt.business.general.supplement.utility\\gt.business.general.supplement.utility.csproj": {
+                "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Business\\_General\\Supplement\\gt.business.general.supplement.utility\\gt.business.general.supplement.utility.csproj"
+              },
+              "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general.io\\gt.entity.general.io.csproj": {
+                "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Entity\\_General\\gt.entity.general.io\\gt.entity.general.io.csproj"
+              },
+              "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Enumerator\\_General\\gt.enumerator.general\\gt.enumerator.general.csproj": {
+                "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Enumerator\\_General\\gt.enumerator.general\\gt.enumerator.general.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Html.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Enumerator\\_General\\gt.enumerator.general\\gt.enumerator.general.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Enumerator\\_General\\gt.enumerator.general\\gt.enumerator.general.csproj",
+        "projectName": "gt.enumerator.general",
+        "projectPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Enumerator\\_General\\gt.enumerator.general\\gt.enumerator.general.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\D\\3_1\\Architecture\\Framework\\Logic\\Enumerator\\_General\\gt.enumerator.general\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

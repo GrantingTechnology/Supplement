@@ -1,0 +1,125 @@
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.deps.json
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\ref\gt.business.general.supplement.mail.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.pdb
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.utility.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.log.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.io.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.log.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.enumerator.general.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.pdb
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.log.pdb
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.utility.pdb
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.io.pdb
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.log.pdb
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.enumerator.general.pdb
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.AssemblyReference.cache
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.AssemblyInfoInputs.cache
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.AssemblyInfo.cs
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.CoreCompileInputs.cache
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.CopyComplete
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\ref\gt.business.general.supplement.mail.dll
+D:\Project\GT\2812-1\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.pdb
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.deps.json
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\ref\gt.business.general.supplement.mail.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.pdb
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.utility.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.log.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.io.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.log.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.enumerator.general.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.pdb
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.log.pdb
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.utility.pdb
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.io.pdb
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.log.pdb
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.enumerator.general.pdb
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.AssemblyReference.cache
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.AssemblyInfoInputs.cache
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.AssemblyInfo.cs
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.CoreCompileInputs.cache
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.CopyComplete
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\ref\gt.business.general.supplement.mail.dll
+D:\Project\GT\2812-1\gt.app - convert\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.pdb
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.deps.json
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\ref\gt.business.general.supplement.mail.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.pdb
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.utility.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.log.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.io.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.log.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.enumerator.general.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.pdb
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.log.pdb
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.utility.pdb
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.io.pdb
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.log.pdb
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.enumerator.general.pdb
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.AssemblyReference.cache
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.AssemblyInfoInputs.cache
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.AssemblyInfo.cs
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.CoreCompileInputs.cache
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.CopyComplete
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\ref\gt.business.general.supplement.mail.dll
+C:\D\gt.app\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.pdb
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.deps.json
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\ref\gt.business.general.supplement.mail.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.pdb
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.utility.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.log.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.io.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.log.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.enumerator.general.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.pdb
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.log.pdb
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.utility.pdb
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.io.pdb
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.log.pdb
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.enumerator.general.pdb
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.AssemblyReference.cache
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.AssemblyInfoInputs.cache
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.AssemblyInfo.cs
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.CoreCompileInputs.cache
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.CopyComplete
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\ref\gt.business.general.supplement.mail.dll
+C:\D\3_1\Archtecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.pdb
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.deps.json
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\ref\gt.business.general.supplement.mail.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.mail.pdb
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.utility.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.log.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.io.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.log.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.enumerator.general.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.pdb
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.log.pdb
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.business.general.supplement.utility.pdb
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.io.pdb
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.entity.general.log.pdb
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\bin\Debug\net6.0\gt.enumerator.general.pdb
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.AssemblyReference.cache
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.GeneratedMSBuildEditorConfig.editorconfig
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.AssemblyInfoInputs.cache
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.AssemblyInfo.cs
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.CoreCompileInputs.cache
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.csproj.CopyComplete
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\ref\gt.business.general.supplement.mail.dll
+C:\D\3_1\Architecture\Framework\Logic\Business\_General\Supplement\Mail\gt.business.general.supplement.mail\obj\Debug\net6.0\gt.business.general.supplement.mail.pdb
